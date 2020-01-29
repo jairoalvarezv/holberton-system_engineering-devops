@@ -1,6 +1,2 @@
 #!/bin/bash
-cd
-cd ..
-cd ..
-cd tmp
-mkdir holberton
+mkdir /tmp/holberton
