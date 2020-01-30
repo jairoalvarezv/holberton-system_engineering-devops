@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --from=guillaume -R betty *
+chown --from=guillaume -R betty *
